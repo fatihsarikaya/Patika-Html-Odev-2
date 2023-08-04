@@ -1,0 +1,103 @@
+h1 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: #00ADB5;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #EEEEEE;
+}
+
+h2 {
+    font-family: 'Teko', sans-serif;
+    color: #00ADB5;
+}
+
+a {
+    color: #00ADB5;
+}
+
+a:hover {
+    color: #393E46;
+}
+
+a:visited {
+    color: #1F6E8C;
+}
+
+body {
+    background-color: #222831;
+}
+
+h3 {
+    font-family: 'Teko', sans-serif;
+    color: #EEEEEE;
+}
+
+.profil {
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+    border: #393E46 2px solid;
+    padding: auto;
+    margin: auto;
+}
+
+.laVitaPic {
+    border-radius: 10%;
+    height: 200px;
+    width: 150px;
+    object-fit: cover;
+    border: #393E46 2px solid;
+    padding: auto;
+    margin: 20px 100px;
+    position: relative;
+    display: inline-block;
+}
+
+.laVitaPic2 {
+    border-radius: 10%;
+    height: 200px;
+    width: 150px;
+    object-fit: cover;
+    border: #393E46 2px solid;
+    padding: auto;
+    margin: 20px 100px;
+    position: relative;
+    display: inline-block;
+}
+
+.description {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #EEEEEE;
+}
+
+.description2 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #EEEEEE;
+}
+
+.container {
+    bottom: 0;
+    display: inline-block;
+}
+
+.container2 {
+    bottom: 0;
+    display: inline-block;
+}   
+
+.together {
+    display: flex;
+    align-items: flex-start;
+    bottom: 0;
+}
+
+.listeler {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #EEEEEE;
+}
